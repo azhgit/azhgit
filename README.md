@@ -13,7 +13,7 @@ Twilio Media Streams → Deepgram STT → Claude tool-calling → ElevenLabs TTS
 ### CarbonTrace — ESG Carbon-Emissions Data & Analytics Platform
 Full-stack SaaS for automated ESG carbon-emissions reporting: Playwright browser automation, Celery/Redis async task queue, PostgreSQL-backed REST API. Diagnosed and resolved a production incident involving duplicate scheduled runs via distributed locking and a circuit breaker.
 `Python` `Celery` `Redis` `PostgreSQL` `Playwright`
-Private repo — available on request
+Private repo — client project
 
 ### CourseFlow — AI-Powered Knowledge Q&A System
 Domain-agnostic RAG-based Q&A system.
